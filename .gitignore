@@ -9,14 +9,14 @@ org.eclipse*
 
 docs/_build
 
-*/local_settings.py
-*/smedia
-*/media
-*/temp
-*/logs
+local_settings.py
+temp/
+logs/
+env/
 */static
 */site-static/css/*
-*/site-static/.sass-cache
-*/data.db
-*/static/CACHE
-*/cache/*
+.sass-cache/
+data.db
+local.db
+static/CACHE
+cache/*
