@@ -2,20 +2,11 @@
 {% load sekizai_tags webdesign %}
 
 {% block "main" %}
-<h1><i class="icon-camera-retro"></i> {{ title }} <small>Sesion</small></h1>
-
-{% for tweet in tweets %}
-<h3><small>From:</small> {{ tweet.from_user }} <small>to:</small> {{ tweet.to_user }}</h3>
-<p>{{ tweet.text|urlize }}</p>
-{% endfor %}
-
-
+<h1>Twitter Search</h1>
 {% endblock %}
 
 {% block "sidebar" %}
-
 <form action="" method="post">
-	{% csrf_token %}
 	<fieldset>
 		<legend>
 			<h4>Search<i class="icon-search pull-right"></i></h4>

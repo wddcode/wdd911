@@ -7,7 +7,7 @@ admin.autodiscover()
 
 urlpatterns = patterns('',
                        
-    url(r'^$', direct_to_template, {'template': 'home.html'}, name='home'),
+    url(r'^$', direct_to_template, {'template': 'test.html'}, name='home'),
     # project urls
     url(r'^twitter/', include('twitter.urls')),
     
