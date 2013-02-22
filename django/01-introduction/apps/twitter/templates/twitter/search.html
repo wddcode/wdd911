@@ -2,11 +2,32 @@
 {% load sekizai_tags webdesign %}
 
 {% block "main" %}
-<h1>Twitter Search</h1>
+<h1>{{ title }}</h1>
+<p>Your query is: {{ query }}</p>
+
+
+{% if tweets %}
+
+	{% for tweet in tweets %}
+
+		{% include "twitter/tweet_entry.html" %}
+		
+	{% endfor %}
+	
+{% else %}
+	<div class="alert alert-warning">
+		<p>No results</p>
+	</div>
+
+{% endif %}
+
+
+
+
 {% endblock %}
 
 {% block "sidebar" %}
-<form action="" method="post">
+<form action="" method="get">
 	<fieldset>
 		<legend>
 			<h4>Search<i class="icon-search pull-right"></i></h4>

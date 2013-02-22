@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% load sekizai_tags webdesign %}
+
+{% block "main" %}
+<h1>{{ title }}</h1>
+<p>Your query is: {{ query }}</p>
+
+
+{% if release %}
+
+	<h3>{{ release.title }}</h3>
+	
+	{% for track in release.tracklist %}
+	
+		<h4><small>{{ track.position }}</small> {{ track.title }}</h4>
+	
+	{% endfor %}
+	
+{% else %}
+	<div class="alert alert-warning">
+		<p>No results</p>
+	</div>
+
+{% endif %}
+
+
+
+
+{% endblock %}
+
+{% block "sidebar" %}
+<form action="" method="get">
+	<fieldset>
+		<legend>
+			<h4>Search<i class="icon-search pull-right"></i></h4>
+		</legend>
+		<label>Query</label>
+		<input type="text" name="query" {% if query %}value="{{ query }}"{% endif %} placeholder="Search query…">
+		<span class="help-block">Example: "4268905"</span>
+		<button type="submit" class="btn btn-primary pull-right">
+			Search
+		</button>
+	</fieldset>
+</form>
+{% endblock %}

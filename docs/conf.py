@@ -16,7 +16,17 @@ import sys, os
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
-#sys.path.insert(0, os.path.abspath('.'))
+#sys.path.insert(0, os.path.abspath('../django/01-introduction/'))
+
+
+
+sys.path.append(os.path.abspath('../django/01-introduction/'))
+import settings
+from django.core.management import setup_environ
+setup_environ(settings)
+
+
+
 
 # -- General configuration -----------------------------------------------------
 
@@ -81,7 +91,12 @@ exclude_patterns = ['_build']
 #show_authors = False
 
 # The name of the Pygments (syntax highlighting) style to use.
-pygments_style = 'sphinx'
+pygments_style = 'native'
+
+"""
+['monokai', 'manni', 'rrt', 'perldoc', 'borland', 'colorful', 'default', 'murphy', 'vs', 'trac', 'tango', 'fruity', 'autumn', 'bw', 'emacs', 'vim', 'pastie', 'friendly', 'native']
+"""
+
 
 # A list of ignored prefixes for module index sorting.
 #modindex_common_prefix = []

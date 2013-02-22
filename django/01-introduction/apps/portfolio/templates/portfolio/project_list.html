@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+
+{% load thumbnail %}
+
+{% block "main" %}
+
+{% for project in projects %}
+<div class="project">
+	
+	<h1 style="color: green"><i class="icon-ok-sign"></i> {{ project.name }}</h1>
+	
+	{% if project.description  %}
+	{{ project.description|linebreaks }}
+	{% endif %}
+	
+	<h2><i class="icon-align-center"></i></h2>
+	
+	
+	{% if project.client %}
+	{{ project.client.name }}{{ project.client.url }}
+	{% else %}
+	<p>no client..</p>
+	{% endif %}
+		
+
+	{% for media in project.media.all %}
+	{{ media.name }}
+	{% endfor %}
+
+	
+	{% for image in project.image_set.all %}
+	<img src="{% thumbnail image.file 100x100 upscale crop %}" >
+	{% endfor %}
+	
+	
+</div>
+	
+
+{% endfor %}
+
+{% endblock %}
+
+
+
+
+{% block "sidebar" %}
+
+
+<div class="client-list">
+
+<dl>
+	{% for client in clients %}
+		<dt>{{ client.name }}</dt>
+		<dd>{% if client.website %}<a href="{{ client.website }}"><i class="icon-external-link" ></i> Website<a>{% endif %}</dd>	
+	{% endfor %}		
+</dl>
+
+</div>
+
+
+{% endblock %}

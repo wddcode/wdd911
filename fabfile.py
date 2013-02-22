@@ -21,7 +21,7 @@ def docs():
     env.username = 'wdd911.anorg.net'
     
 
-def upload():
+def build():
     
     # build the docs
     try:
@@ -30,6 +30,8 @@ def upload():
         print e
         pass
 
+def upload():
+    
     # upload to ftp
     try:
         local('lftp -u %s -e "mirror --reverse --delete --only-newer %s %s;quit" %s' % \

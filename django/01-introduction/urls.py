@@ -7,9 +7,14 @@ admin.autodiscover()
 
 urlpatterns = patterns('',
                        
-    url(r'^$', direct_to_template, {'template': 'test.html'}, name='home'),
+    url(r'^$', direct_to_template, {'template': 'home.html'}, name='home'),
+    
+    url(r'^contact/$', direct_to_template, {'template': 'contact.html'}, name='contact'),
+    
     # project urls
     url(r'^twitter/', include('twitter.urls')),
+    url(r'^discogs/', include('discogs.urls')),
+    url(r'^portfolio/', include('portfolio.urls')),
     
     # admin urls
     url(r'^admin/', include(admin.site.urls)),

@@ -7,6 +7,7 @@ Quickstart Session
    `github project <https://github.com/wddcode/wdd911>`_.
         
 
+.. _installing-pip:
         
 easy_install & PIP
 ******************
@@ -39,6 +40,8 @@ unintentionally upgrade an application that shouldn’t be upgraded.
 
     sudo pip install virtualenv
     
+
+.. _using-virtualenv:
     
 Using virtualenv
 ****************

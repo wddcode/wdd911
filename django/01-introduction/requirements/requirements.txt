@@ -8,3 +8,6 @@ django-sekizai==0.7
 django-staticfiles==1.2.1
 six==1.2.0
 wsgiref==0.1.2
+requests
+pil
+easy-thumbnails==1.2

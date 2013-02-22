@@ -15,6 +15,8 @@ class Twitter(object):
         print 'search for: %s' % query
         query_url = '%s%s' % (self.api_url, query)
         
+        print 'url: %s' % query_url
+        
         r = requests.get(query_url)
                 
         return r.json()
