@@ -60,8 +60,53 @@ Check the console output, it should look something like (important part is: `JPE
     --------------------------------------------------------------------
     
     
+Code Directory
+================    
+    
+For easy code access and snippet copy-pasting, symlink your workspace folder to `~/code`
+
+::
+
+    ln -s /Users/replace-this-with-your-username/Documents/Code /Users/replace-this-with-your-username/code
     
 
 
 
+Linux (debian based)
+********************
+
+Aptana
+======
+
+::
+
+    sudo apt-get install openjdk-7-jre libwebkitgtk-1.0-0 
+
+
+Download latest aptana studio and extract it to /opt/ ( or other appropriate path... )
+    
+Development libraries & other tools
+===================================
+
+::
+
+    sudo apt-get install aptitude
+    sudo aptitude install build-essential python-setuptools python-dev git-core libjpeg-dev
+    sudo easy_install pip
+    sudo pip install virtualenv
+    
+    
+Code Directory
+================    
+    
+For easy code access and snippet copy-pasting, symlink your workspace folder to `~/code`
+
+::
+
+    lln -s /home/user/Documents/Code /home/user/code
+    
+
+
+    
+    
    
