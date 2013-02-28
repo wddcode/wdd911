@@ -9,22 +9,66 @@ if (window.XMLHttpRequest) { // Mozilla, Safari, ...
 httpRequest.onreadystatechange = function() {
 	
 	var state = httpRequest.readyState;
-
-	if(state == 4) {
+	
+	console.log(state);
+	
+	if (state == 4) {
 		
-		if (httpRequest.status === 200) {
-		
-			var result = httpRequest.responseText;		
-			// var result = JSON.parse(result);
+		if(httpRequest.status == 200) {
 			
-		} else {
-			alert('error: ' + httpRequest.status);
+			console.log('request ok!');
+			
+			var result = httpRequest.responseText;
+			result = JSON.parse(result);				
+			showComments(result);
+			
 		}
 		
+		if(httpRequest.status == 404) {
+			
+			console.log('not found');
+			
+		}
 	}
 	
 };
 
-var url = 'the url!';
-// httpRequest.open('GET', url);
-// httpRequest.send();
+var url = '/portfolio/project/2/comments/';
+
+
+/* 
+$.get(url, function(data, status) {
+	console.log(data, status);
+});
+*/
+
+
+var loadComments = function() {
+	httpRequest.open('GET', url);
+	httpRequest.send();
+}
+
+
+setInterval(function(){
+	loadComments();
+}, 5000);
+loadComments();
+
+
+var showComments = function(data) {
+
+	var container = document.getElementById('comments_container');
+	container.innerHTML = 'show comments...';
+	
+	for (i in data) {
+		container.innerHTML += '<h5>' + data[i].username + '</h5>';
+		container.innerHTML += '<p><small>' + data[i].text + '</small></p>';
+	}
+	
+}
+
+
+
+
+
+

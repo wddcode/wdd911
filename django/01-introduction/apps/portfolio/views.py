@@ -42,6 +42,9 @@ def comment_list(request, pk):
              'text': comment.text,
              }
         content.append(c)
+        
+    import time
+    time.sleep(1)
     
     return HttpResponse(json.dumps(content), content_type='application/json')
 
