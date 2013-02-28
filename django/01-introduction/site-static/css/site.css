@@ -156,13 +156,13 @@ body {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_scaffolding\.sass}line{font-family:\0000319}}
 a {
-  color: #0088cc;
+  color: cyan;
   text-decoration: none;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_scaffolding\.sass}line{font-family:\0000323}}
 a:hover {
-  color: #005580;
+  color: #00b2b3;
   text-decoration: underline;
 }
 
@@ -950,19 +950,19 @@ pre code {
   overflow-y: scroll;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\000039}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\000039}}
 form {
   margin: 0 0 20px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\0000312}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\0000312}}
 fieldset {
   padding: 0;
   margin: 0;
   border: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\0000318}}
 legend {
   display: block;
   width: 100%;
@@ -974,13 +974,13 @@ legend {
   border: 0;
   border-bottom: 1px solid #e5e5e5;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\0000329}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\0000329}}
 legend small {
   font-size: 15px;
   color: #999999;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\0000335}}
 label,
 input,
 button,
@@ -991,7 +991,7 @@ textarea {
   line-height: 20px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\0000343}}
 input,
 button,
 select,
@@ -999,13 +999,13 @@ textarea {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\0000351}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\0000351}}
 label {
   display: block;
   margin-bottom: 5px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\0000360}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\0000360}}
 select,
 textarea,
 input[type="text"],
@@ -1035,19 +1035,19 @@ input[type="color"],
   border-radius: 3px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\0000389}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\0000389}}
 input,
 textarea,
 .uneditable-input {
   width: 206px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\0000396}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\0000396}}
 textarea {
   height: auto;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003101}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003101}}
 textarea,
 input[type="text"],
 input[type="password"],
@@ -1074,7 +1074,7 @@ input[type="color"],
   -o-transition: border linear 0.2s, box-shadow linear 0.2s;
   transition: border linear 0.2s, box-shadow linear 0.2s;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003122}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003122}}
 textarea:focus,
 input[type="text"]:focus,
 input[type="password"]:focus,
@@ -1100,7 +1100,7 @@ input[type="color"]:focus,
   box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6);
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003131}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003131}}
 input[type="radio"],
 input[type="checkbox"] {
   margin: 4px 0 0;
@@ -1112,7 +1112,7 @@ input[type="checkbox"] {
   cursor: pointer;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003143}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003143}}
 input[type="file"],
 input[type="image"],
 input[type="submit"],
@@ -1123,7 +1123,7 @@ input[type="checkbox"] {
   width: auto;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003155}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003155}}
 select,
 input[type="file"] {
   height: 30px;
@@ -1133,20 +1133,20 @@ input[type="file"] {
   line-height: 30px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003164}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003164}}
 select {
   width: 220px;
   border: 1px solid #cccccc;
   background-color: white;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003173}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003173}}
 select[multiple],
 select[size] {
   height: auto;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003179}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003179}}
 select:focus,
 input[type="file"]:focus,
 input[type="radio"]:focus,
@@ -1156,7 +1156,7 @@ input[type="checkbox"]:focus {
   outline-offset: -2px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003190}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003190}}
 .uneditable-input,
 .uneditable-textarea {
   color: #999999;
@@ -1168,13 +1168,13 @@ input[type="checkbox"]:focus {
   cursor: not-allowed;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003199}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003199}}
 .uneditable-input {
   overflow: hidden;
   white-space: nowrap;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003205}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003205}}
 .uneditable-textarea {
   width: auto;
   height: auto;
@@ -1196,27 +1196,27 @@ textarea::-webkit-input-placeholder {
   color: #999999;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003223}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003223}}
 .radio,
 .checkbox {
   min-height: 18px;
   padding-left: 18px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003229}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003229}}
 .radio input[type="radio"],
 .checkbox input[type="checkbox"] {
   float: left;
   margin-left: -18px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003236}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003236}}
 .controls > .radio:first-child,
 .controls > .checkbox:first-child {
   padding-top: 5px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003244}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003244}}
 .radio.inline,
 .checkbox.inline {
   display: inline-block;
@@ -1225,43 +1225,43 @@ textarea::-webkit-input-placeholder {
   vertical-align: middle;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003251}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003251}}
 .radio.inline + .radio.inline,
 .checkbox.inline + .checkbox.inline {
   margin-left: 10px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003260}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003260}}
 .input-mini {
   width: 60px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003263}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003263}}
 .input-small {
   width: 90px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003266}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003266}}
 .input-medium {
   width: 150px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003269}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003269}}
 .input-large {
   width: 210px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003272}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003272}}
 .input-xlarge {
   width: 270px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003275}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003275}}
 .input-xxlarge {
   width: 530px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003280}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003280}}
 input[class*="span"],
 select[class*="span"],
 textarea[class*="span"],
@@ -1274,7 +1274,7 @@ textarea[class*="span"],
   margin-left: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003293}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003293}}
 .input-append input[class*="span"],
 .input-append .uneditable-input[class*="span"],
 .input-prepend input[class*="span"],
@@ -1384,7 +1384,7 @@ textarea.span1,
   width: 46px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003312}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003312}}
 .controls-row {
   *zoom: 1;
 }
@@ -1399,12 +1399,12 @@ textarea.span1,
   clear: both;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003316}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003316}}
 .controls-row [class*="span"] {
   float: left;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003325}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003325}}
 input[disabled],
 select[disabled],
 textarea[disabled],
@@ -1415,7 +1415,7 @@ textarea[readonly] {
   background-color: #eeeeee;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003336}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003336}}
 input[type="radio"][disabled],
 input[type="checkbox"][disabled],
 input[type="radio"][readonly],
@@ -1583,14 +1583,14 @@ input[type="checkbox"][readonly] {
   border-color: #3a87ad;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003364}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003364}}
 input:focus:required:invalid,
 textarea:focus:required:invalid,
 select:focus:required:invalid {
   color: #b94a48;
   border-color: #ee5f5b;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003369}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003369}}
 input:focus:required:invalid:focus,
 textarea:focus:required:invalid:focus,
 select:focus:required:invalid:focus {
@@ -1600,7 +1600,7 @@ select:focus:required:invalid:focus {
   box-shadow: 0 0 6px #f8b9b7;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003376}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003376}}
 .form-actions {
   padding: 19px 20px 20px;
   margin-top: 20px;
@@ -1620,19 +1620,19 @@ select:focus:required:invalid:focus {
   clear: both;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003388}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003388}}
 .help-block,
 .help-inline {
   color: #595959;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003393}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003393}}
 .help-block {
   display: block;
   margin-bottom: 10px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003398}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003398}}
 .help-inline {
   display: inline-block;
   *display: inline;
@@ -1642,14 +1642,14 @@ select:focus:required:invalid:focus {
   padding-left: 5px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003409}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003409}}
 .input-append,
 .input-prepend {
   margin-bottom: 5px;
   font-size: 0;
   white-space: nowrap;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003415}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003415}}
 .input-append input,
 .input-append select,
 .input-append .uneditable-input,
@@ -1665,7 +1665,7 @@ select:focus:required:invalid:focus {
   -moz-border-radius: 0 3px 3px 0;
   border-radius: 0 3px 3px 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003427}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003427}}
 .input-append input:focus,
 .input-append select:focus,
 .input-append .uneditable-input:focus,
@@ -1674,7 +1674,7 @@ select:focus:required:invalid:focus {
 .input-prepend .uneditable-input:focus {
   z-index: 2;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003429}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003429}}
 .input-append .add-on,
 .input-prepend .add-on {
   display: inline-block;
@@ -1690,7 +1690,7 @@ select:focus:required:invalid:focus {
   background-color: #eeeeee;
   border: 1px solid #cccccc;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003442}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003442}}
 .input-append .add-on,
 .input-append .btn,
 .input-prepend .add-on,
@@ -1700,19 +1700,19 @@ select:focus:required:invalid:focus {
   -moz-border-radius: 0;
   border-radius: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003446}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003446}}
 .input-append .active,
 .input-prepend .active {
   background-color: #a9dba9;
   border-color: #46a546;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003451}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003451}}
 .input-prepend .add-on,
 .input-prepend .btn {
   margin-right: -1px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003454}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003454}}
 .input-prepend .add-on:first-child,
 .input-prepend .btn:first-child {
   -webkit-border-radius: 3px 0 0 3px;
@@ -1720,7 +1720,7 @@ select:focus:required:invalid:focus {
   border-radius: 3px 0 0 3px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003459}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003459}}
 .input-append input,
 .input-append select,
 .input-append .uneditable-input {
@@ -1728,12 +1728,12 @@ select:focus:required:invalid:focus {
   -moz-border-radius: 3px 0 0 3px;
   border-radius: 3px 0 0 3px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003463}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003463}}
 .input-append .add-on,
 .input-append .btn {
   margin-left: -1px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003466}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003466}}
 .input-append .add-on:last-child,
 .input-append .btn:last-child {
   -webkit-border-radius: 0 3px 3px 0;
@@ -1741,7 +1741,7 @@ select:focus:required:invalid:focus {
   border-radius: 0 3px 3px 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003472}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003472}}
 .input-prepend.input-append input,
 .input-prepend.input-append select,
 .input-prepend.input-append .uneditable-input {
@@ -1749,7 +1749,7 @@ select:focus:required:invalid:focus {
   -moz-border-radius: 0;
   border-radius: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003476}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003476}}
 .input-prepend.input-append .add-on:first-child,
 .input-prepend.input-append .btn:first-child {
   margin-right: -1px;
@@ -1757,7 +1757,7 @@ select:focus:required:invalid:focus {
   -moz-border-radius: 3px 0 0 3px;
   border-radius: 3px 0 0 3px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003480}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003480}}
 .input-prepend.input-append .add-on:last-child,
 .input-prepend.input-append .btn:last-child {
   margin-left: -1px;
@@ -1766,7 +1766,7 @@ select:focus:required:invalid:focus {
   border-radius: 0 3px 3px 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003488}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003488}}
 input.search-query {
   padding-right: 14px;
   padding-right: 4px \9;
@@ -1780,7 +1780,7 @@ input.search-query {
 }
 
 /* Allow for input prepend/append in search forms */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003500}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003500}}
 .form-search .input-append .search-query,
 .form-search .input-prepend .search-query {
   -webkit-border-radius: 0;
@@ -1788,35 +1788,35 @@ input.search-query {
   border-radius: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003505}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003505}}
 .form-search .input-append .search-query {
   -webkit-border-radius: 14px 0 0 14px;
   -moz-border-radius: 14px 0 0 14px;
   border-radius: 14px 0 0 14px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003508}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003508}}
 .form-search .input-append .btn {
   -webkit-border-radius: 0 14px 14px 0;
   -moz-border-radius: 0 14px 14px 0;
   border-radius: 0 14px 14px 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003511}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003511}}
 .form-search .input-prepend .search-query {
   -webkit-border-radius: 0 14px 14px 0;
   -moz-border-radius: 0 14px 14px 0;
   border-radius: 0 14px 14px 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003514}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003514}}
 .form-search .input-prepend .btn {
   -webkit-border-radius: 14px 0 0 14px;
   -moz-border-radius: 14px 0 0 14px;
   border-radius: 14px 0 0 14px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003526}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003526}}
 .form-search input,
 .form-search textarea,
 .form-search select,
@@ -1845,14 +1845,14 @@ input.search-query {
   margin-bottom: 0;
   vertical-align: middle;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003538}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003538}}
 .form-search .hide,
 .form-inline .hide,
 .form-horizontal .hide {
   display: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003541}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003541}}
 .form-search label,
 .form-inline label,
 .form-search .btn-group,
@@ -1860,7 +1860,7 @@ input.search-query {
   display: inline-block;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003549}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003549}}
 .form-search .input-append,
 .form-inline .input-append,
 .form-search .input-prepend,
@@ -1868,7 +1868,7 @@ input.search-query {
   margin-bottom: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003557}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003557}}
 .form-search .radio,
 .form-search .checkbox,
 .form-inline .radio,
@@ -1878,7 +1878,7 @@ input.search-query {
   vertical-align: middle;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003567}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003567}}
 .form-search .radio input[type="radio"],
 .form-search .checkbox input[type="checkbox"],
 .form-inline .radio input[type="radio"],
@@ -1888,18 +1888,18 @@ input.search-query {
   margin-left: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003576}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003576}}
 .control-group {
   margin-bottom: 10px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003580}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003580}}
 legend + .control-group {
   margin-top: 20px;
   -webkit-margin-top-collapse: separate;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003589}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003589}}
 .form-horizontal .control-group {
   margin-bottom: 20px;
   *zoom: 1;
@@ -1914,35 +1914,35 @@ legend + .control-group {
 .form-horizontal .control-group:after {
   clear: both;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003593}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003593}}
 .form-horizontal .control-label {
   float: left;
   width: 160px;
   padding-top: 5px;
   text-align: right;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003599}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003599}}
 .form-horizontal .controls {
   *display: inline-block;
   *padding-left: 20px;
   margin-left: 180px;
   *margin-left: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003606}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003606}}
 .form-horizontal .controls:first-child {
   *padding-left: 180px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003609}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003609}}
 .form-horizontal .help-block {
   margin-bottom: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003615}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003615}}
 .form-horizontal input + .help-block,
 .form-horizontal select + .help-block,
 .form-horizontal textarea + .help-block {
   margin-top: 10px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_forms\.sass}line{font-family:\00003618}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_forms\.sass}line{font-family:\00003618}}
 .form-horizontal .form-actions {
   padding-left: 180px;
 }
@@ -3972,15 +3972,15 @@ ul.icons li [class*=" icon-"] {
 .dropdown-submenu:hover > a {
   text-decoration: none;
   color: white;
-  background-color: #0088cc;
-  background-color: #0081c2;
-  background-image: -moz-linear-gradient(top, #0088cc, #0077b3);
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#0088cc), to(#0077b3));
-  background-image: -webkit-linear-gradient(top, #0088cc, #0077b3);
-  background-image: -o-linear-gradient(top, #0088cc, #0077b3);
-  background-image: linear-gradient(to bottom, #0088cc, #0077b3);
+  background-color: cyan;
+  background-color: #00f5f5;
+  background-image: -moz-linear-gradient(top, cyan, #00e5e6);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(cyan), to(#00e5e6));
+  background-image: -webkit-linear-gradient(top, cyan, #00e5e6);
+  background-image: -o-linear-gradient(top, cyan, #00e5e6);
+  background-image: linear-gradient(to bottom, #00ffff, #00e5e6);
   background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0088CC', endColorstr='#FF0077B3', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF00FFFF', endColorstr='#FF00E5E6', GradientType=0);
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_dropdowns\.sass}line{font-family:\0000393}}
@@ -3989,15 +3989,15 @@ ul.icons li [class*=" icon-"] {
   color: white;
   text-decoration: none;
   outline: 0;
-  background-color: #0088cc;
-  background-color: #0081c2;
-  background-image: -moz-linear-gradient(top, #0088cc, #0077b3);
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#0088cc), to(#0077b3));
-  background-image: -webkit-linear-gradient(top, #0088cc, #0077b3);
-  background-image: -o-linear-gradient(top, #0088cc, #0077b3);
-  background-image: linear-gradient(to bottom, #0088cc, #0077b3);
+  background-color: cyan;
+  background-color: #00f5f5;
+  background-image: -moz-linear-gradient(top, cyan, #00e5e6);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(cyan), to(#00e5e6));
+  background-image: -webkit-linear-gradient(top, cyan, #00e5e6);
+  background-image: -o-linear-gradient(top, cyan, #00e5e6);
+  background-image: linear-gradient(to bottom, #00ffff, #00e5e6);
   background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0088CC', endColorstr='#FF0077B3', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF00FFFF', endColorstr='#FF00E5E6', GradientType=0);
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_dropdowns\.sass}line{font-family:\00003105}}
@@ -4365,29 +4365,29 @@ input[type="button"].btn-block {
 .btn-primary {
   color: white;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-  background-color: #006ecc;
-  background-image: -moz-linear-gradient(top, #0088cc, #0044cc);
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#0088cc), to(#0044cc));
-  background-image: -webkit-linear-gradient(top, #0088cc, #0044cc);
-  background-image: -o-linear-gradient(top, #0088cc, #0044cc);
-  background-image: linear-gradient(to bottom, #0088cc, #0044cc);
+  background-color: #00dfff;
+  background-image: -moz-linear-gradient(top, cyan, #00aaff);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(cyan), to(#00aaff));
+  background-image: -webkit-linear-gradient(top, cyan, #00aaff);
+  background-image: -o-linear-gradient(top, cyan, #00aaff);
+  background-image: linear-gradient(to bottom, #00ffff, #00aaff);
   background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0088CC', endColorstr='#FF0044CC', GradientType=0);
-  border-color: #0044cc #0044cc #002a80;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF00FFFF', endColorstr='#FF00AAFF', GradientType=0);
+  border-color: #00aaff #00aaff #0077b3;
   border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
-  *background-color: #0044cc;
+  *background-color: #00aaff;
   /* Darken IE7 buttons by default so they stand out more given they won't have borders */
   filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_mixins\.sass}line{font-family:\00003463}}
 .btn-primary:hover, .btn-primary:active, .btn-primary.active, .btn-primary.disabled, .btn-primary[disabled] {
   color: white;
-  background-color: #0044cc;
-  *background-color: #003bb3;
+  background-color: #00aaff;
+  *background-color: #0099e6;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_mixins\.sass}line{font-family:\00003468}}
 .btn-primary:active, .btn-primary.active {
-  background-color: #003399 \9;
+  background-color: #0088cc \9;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_buttons\.sass}line{font-family:\00003135}}
@@ -4581,7 +4581,7 @@ input[type="submit"].btn.btn-mini {
 .btn-link {
   border-color: transparent;
   cursor: pointer;
-  color: #0088cc;
+  color: cyan;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
   border-radius: 0;
@@ -4589,7 +4589,7 @@ input[type="submit"].btn.btn-mini {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_buttons\.sass}line{font-family:\00003194}}
 .btn-link:hover {
-  color: #005580;
+  color: #00b2b3;
   text-decoration: underline;
   background-color: transparent;
 }
@@ -4776,7 +4776,7 @@ input[type="submit"].btn.btn-mini {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_button-groups\.sass}line{font-family:\00003147}}
 .btn-group.open .btn-primary.dropdown-toggle {
-  background-color: #0044cc;
+  background-color: #00aaff;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_button-groups\.sass}line{font-family:\00003149}}
 .btn-group.open .btn-warning.dropdown-toggle {
@@ -5018,7 +5018,7 @@ input[type="submit"].btn.btn-mini {
 .nav-list > .active > a:hover {
   color: white;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
-  background-color: #0088cc;
+  background-color: cyan;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_navs\.sass}line{font-family:\0000363}}
@@ -5121,7 +5121,7 @@ input[type="submit"].btn.btn-mini {
 .nav-pills > .active > a,
 .nav-pills > .active > a:hover {
   color: white;
-  background-color: #0088cc;
+  background-color: cyan;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_navs\.sass}line{font-family:\00003144}}
@@ -5199,15 +5199,15 @@ input[type="submit"].btn.btn-mini {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_navs\.sass}line{font-family:\00003191}}
 .nav .dropdown-toggle .caret {
-  border-top-color: #0088cc;
-  border-bottom-color: #0088cc;
+  border-top-color: cyan;
+  border-bottom-color: cyan;
   margin-top: 6px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_navs\.sass}line{font-family:\00003196}}
 .nav .dropdown-toggle:hover .caret {
-  border-top-color: #005580;
-  border-bottom-color: #005580;
+  border-top-color: #00b2b3;
+  border-bottom-color: #00b2b3;
 }
 
 /* move down carets for tabs */
@@ -6572,7 +6572,7 @@ input[type="submit"].btn.btn-mini {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/bootstrap\/_thumbnails\.sass}line{font-family:\0000335}}
 a.thumbnail:hover {
-  border-color: #0088cc;
+  border-color: cyan;
   -webkit-box-shadow: 0 1px 4px rgba(0, 105, 214, 0.25);
   -moz-box-shadow: 0 1px 4px rgba(0, 105, 214, 0.25);
   box-shadow: 0 1px 4px rgba(0, 105, 214, 0.25);
@@ -7171,4 +7171,27 @@ a.label:hover, a.badge:hover {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_style\.sass}line{font-family:\000033}}
+.row .project {
+  padding: 5px;
+  margin-bottom: 10px;
+  background: #eeeeee;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_style\.sass}line{font-family:\000038}}
+.row .project h1 {
+  font-size: 220%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_style\.sass}line{font-family:\0000310}}
+.row .project h1 a {
+  background-color: #ffc40d;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_style\.sass}line{font-family:\0000312}}
+.row .project h1 a:hover {
+  background-color: #46a546;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ohrstrom\/Documents\/Code\/wdd911\/django\/01-introduction\/site-static\/sass\/site\/_style\.sass}line{font-family:\0000315}}
+.row .project.important {
+  border: 1px solid red;
 }

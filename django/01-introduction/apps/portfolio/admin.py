@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from portfolio.models import Project, Client, Media, Image
+from portfolio.models import Project, Client, Media, Image, Comment
 
 class ImageInline(admin.TabularInline):
     model = Image
@@ -17,3 +17,4 @@ admin.site.register(Project, ProjectAdmin)
 admin.site.register(Client)
 admin.site.register(Media)
 admin.site.register(Image)
+admin.site.register(Comment)

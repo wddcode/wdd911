@@ -4,20 +4,16 @@
 
 {% block "main" %}
 
-{% for project in projects %}
+
 <div class="project">
 	
-	<h1 style="color: green">
-		<a href="{{ project.get_absolute_url }}">
-			<i class="icon-ok-sign"></i> {{ project.name }}
-		</a>
-	</h1>
+	<h1 style="color: green"><i class="icon-ok-sign"></i> {{ project.name }}</h1>
 	
 	{% if project.description  %}
 	{{ project.description|linebreaks }}
 	{% endif %}
 	
-	<h2><i class="icon-align-center"></i></h2>
+	<h2><i class="icon-tags"></i></h2>
 	
 	
 	{% if project.client %}
@@ -40,7 +36,7 @@
 </div>
 	
 
-{% endfor %}
+
 
 {% endblock %}
 
@@ -48,18 +44,6 @@
 
 
 {% block "sidebar" %}
-
-
-<div class="client-list">
-
-<dl>
-	{% for client in clients %}
-		<dt>{{ client.name }}</dt>
-		<dd>{% if client.website %}<a href="{{ client.website }}"><i class="icon-external-link" ></i> Website<a>{% endif %}</dd>	
-	{% endfor %}		
-</dl>
-
-</div>
 
 
 {% endblock %}
